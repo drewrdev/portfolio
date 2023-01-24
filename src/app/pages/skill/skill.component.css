@@ -1,0 +1,202 @@
+/* .caja-padre {
+  width: 40%;
+  min-width: 590px;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  left: 50%;
+  top: 50%;
+} */
+
+.details-p {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  margin: 15px 0 10px 0; 
+}
+
+.s-programming {
+  width: 100%;
+  display: flex;
+}
+
+.l-programming{
+  display: flex;
+  align-items: center;
+  margin: 0;
+  padding-left: 10px;
+}
+
+.s-technical{
+  margin-top: -10px;
+}
+
+.t-details {
+  display: flex;
+  justify-content: flex-end;
+  height: 20px;
+  font-size: 14px;
+}
+
+.menu {
+  position: relative;
+  border: 1px solid var(--color-brand);
+  border-radius: 20px;
+}
+
+.menu div {
+  position: relative;
+  width: 0;
+  height: 8px;
+  border-radius: 10px;
+  background-color: var(--color-brand) ;
+
+}
+
+/* ANIMACION TECHNICAL SKILLS */
+#html-menu {
+  animation: html-barra 5s forwards;
+}
+@keyframes html-barra{
+  100%{
+    width: 70% ;
+  }
+}
+
+#css-menu {
+  animation: css-barra 5s forwards;
+}
+@keyframes css-barra{
+  100%{
+    width: 70% ;
+  }
+}
+
+#js-menu {
+  animation: js-barra 5s forwards;
+}
+@keyframes js-barra{
+  100%{
+    width: 40% ;
+  }
+}
+
+#ng-menu {
+  animation: ng-barra 5s forwards;
+}
+@keyframes ng-barra{
+  100%{
+    width: 50% ;
+  }
+}
+
+#react-menu {
+  animation: react-barra 5s forwards;
+}
+@keyframes react-barra{
+  100%{
+    width: 40% ;
+  }
+}
+
+#node-menu {
+  animation: node-barra 5s forwards;
+}
+@keyframes node-barra{
+  100%{
+    width: 50% ;
+  }
+}
+
+#mongo-menu {
+  animation: mongo-barra 5s forwards;
+}
+@keyframes mongo-barra{
+  100%{
+    width: 60% ;
+  }
+}
+
+/* ANIMACION PROFESSIONAL SKILLS */
+#c-menu {
+  animation: co-barra 5s forwards;
+}
+@keyframes co-barra{
+  100%{
+    width: 90% ;
+  }
+}
+
+#t-menu {
+  animation: te-barra 5s forwards;
+}
+@keyframes te-barra{
+  100%{
+    width: 80% ;
+  }
+}
+
+#cr-menu {
+  animation: cr-barra 5s forwards;
+}
+@keyframes cr-barra{
+  100%{
+    width: 60% ;
+  }
+}
+
+#d-menu {
+  animation: de-barra 5s forwards;
+}
+@keyframes de-barra{
+  100%{
+    width: 80% ;
+  }
+}
+
+#s-menu {
+  animation: st-barra 5s forwards;
+}
+@keyframes st-barra{
+  100%{
+    width: 50% ;
+  }
+}
+
+/* ICON SKILL */
+.icon-skill {
+  display:flex;
+  padding: 1px;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-top: 20px;
+  border: 2px solid  var(--color-brand);
+}
+
+.plugin-box {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  text-align: center;
+  margin: 15px 0 40px 0; 
+}
+
+.t-java, .t-boots {
+  display: flex;
+  margin-left: -12px;
+}
+
+.t-complement {
+  margin-top: 10px;
+}
+
+.complements {
+  display:flex;
+  flex-direction: column;
+  padding-bottom: 5px;
+}
+
+.i-complement {
+  background-color: white;
+  background-size: 100%;
+}

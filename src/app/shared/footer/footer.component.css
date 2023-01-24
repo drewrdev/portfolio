@@ -1,0 +1,30 @@
+/* FOOTER */
+
+.f-content {
+  display: flex;
+  align-items: center;
+}
+
+/* Social-icons */
+
+.social-icons a {
+  width: 40px;
+  height: 40px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--color-base);
+  border-radius: 100px;
+  font-size: 24px;
+}
+
+/* Fotter.icons */
+.i-f {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background-color: var(--color-base);
+  border-radius: 100px;
+  padding-right: 2px;
+  font-size: 20px;
+}

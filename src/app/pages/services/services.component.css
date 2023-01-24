@@ -1,0 +1,21 @@
+/* MINI BOX */
+
+.iconbox {
+  width: 60px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 32px;
+  background-color: var(--color-brand);
+  color: var(--color-base);
+}
+
+.iconbox3 {
+  width: 110px;
+  height: 60px;
+}
+
+.service {
+  height: 100%;
+}
