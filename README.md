@@ -7,7 +7,8 @@ Este proyecto es mi Portfolio Web diseñada para permitir a los reclutadores que
 ## construido con
 - HTML5
 - CSS3/Sass
-- Angular 
+- Bootstrap
+- Angular git
 - TypeScript
 
 
