@@ -1,6 +1,6 @@
 
 # PortFolio Drew
-Este proyecto es mi Portfolio Web diseñada para permitir a los reclutadores que vean mis proyectos realizados.
+Este proyecto es mi Portfolio Web, para permitir a los reclutadores que vean mis proyectos realizados.
 
 <!-- ver pagina web  -->
 
@@ -10,6 +10,7 @@ Este proyecto es mi Portfolio Web diseñada para permitir a los reclutadores que
 - Bootstrap
 - Angular git
 - TypeScript
+- Animaciones (Aos)
 
 
 ## Proximas Actualizaciones
