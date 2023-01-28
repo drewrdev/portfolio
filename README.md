@@ -2,7 +2,7 @@
 # PortFolio Drew
 Este proyecto es mi Portfolio Web, para permitir a los reclutadores que vean mis proyectos realizados.
 
-<!-- ver pagina web  -->
+Enlace: https://drewfolio.netlify.app/
 
 ## construido con
 - HTML5
