@@ -58,7 +58,7 @@
 }
 @keyframes html-barra{
   100%{
-    width: 70% ;
+    width: 60% ;
   }
 }
 
@@ -67,7 +67,7 @@
 }
 @keyframes css-barra{
   100%{
-    width: 70% ;
+    width: 60% ;
   }
 }
 
@@ -85,7 +85,7 @@
 }
 @keyframes ng-barra{
   100%{
-    width: 50% ;
+    width: 40% ;
   }
 }
 
